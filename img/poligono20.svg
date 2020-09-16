@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 71 61" width="71" height="61">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1475 -3396L445 -3396L445 2321L-1475 2321Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #dbdbdb } 
+	</style>
+	<g id="Desktop-1" clip-path="url(#cp1)">
+		<g id="Grupo 13346">
+			<path id="Polígono 20" class="shp0" d="M35 61L0 1L70 1L35 61Z" />
+		</g>
+	</g>
+</svg>
