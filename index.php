@@ -90,12 +90,28 @@
 			</div>
 			<div class="div05">
 				<div class="div05-col">
-					<div class="div05-painel"></div>
+					<div class="div05-painel">
+						<div class="div05-painel-ln">
+							<div class="div05-painel-icone" style="background-image:url('img/icone04.svg')"></div>
+							<div class="div05-painel-txt"><b>Nullam sit amet pretium justo, quis convallis</b> proin faucibus lectus sed viverra hendrerit.</div>
+						</div>
+						<div class="div05-painel-ln">
+							<div class="div05-painel-icone" style="background-image:url('img/icone05.svg')"></div>
+							<div class="div05-painel-txt"><b>Ut eu dolor vitae elit bibendum fringilla sit amet a elit. Fusce ac cursus nisl</b>  mauris id cursus mauris, sollicitudin varius quis convallis metus est.</div>
+						</div>
+						<div class="div05-painel-ln">
+							<div class="div05-painel-icone" style="background-image:url('img/icone06.svg')"></div>
+							<div class="div05-painel-txt"><b>Ut eu dolor:</b> suspendisse feugiat orci sed velit pulvinar pretium.</div>
+						</div>
+					</div>
 				</div>
 				<div class="div05-col">
-					<div class="div05-txt"></div>
+					<div class="div05-txt">Suspendisse feugiat orci sed velit pulvinar. <span>Aliquam vitae lorem?</span></div>
 					<div class="div05-foto"></div>
-					<div class="div05-btn"></div>
+					<div class="div05-btn btn">
+						<div class="btn-base"></div>
+						<div class="btn-up">QUERO ME candidatar</div>
+					</div>
 				</div>
 			</div>
 			<div class="div06">
