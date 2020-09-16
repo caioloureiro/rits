@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 43" width="36" height="43">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1245 -986L675 -986L675 4731L-1245 4731Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff } 
+	</style>
+	<g id="Desktop-1" clip-path="url(#cp1)">
+		<g id="Video">
+			<g id="Play">
+				<path id="Caminho 3097" class="shp0" d="M4.67 41.65L34.47 23.64C35.32 23.13 35.83 22.21 35.83 21.22C35.83 20.23 35.32 19.31 34.47 18.8L4.67 0.79C3.8 0.27 2.71 0.26 1.83 0.76C0.95 1.26 0.41 2.2 0.42 3.22L0.42 39.22C0.41 40.24 0.95 41.17 1.83 41.68C2.71 42.18 3.8 42.17 4.67 41.65L4.67 41.65Z" />
+			</g>
+		</g>
+	</g>
+</svg>
