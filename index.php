@@ -1,12 +1,17 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Página em Branco Simples</title>
+		<title>Rits Landing Page</title>
 		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="css/fontes.css"/>
 		<link rel="stylesheet" href="css/estilo.css"/>
 	</head>
 	<body>
-		<div class="menu"></div>
+		<div class="menu">
+			<div class="menu-logo"></div>
+			<div class="menu-btn">Atendimento</div>
+			<div class="menu-btn">Proin</div>
+		</div>
 		<div class="div01">
 			<div class="div01-txt"></div>
 			<div class="div01-img"></div>
