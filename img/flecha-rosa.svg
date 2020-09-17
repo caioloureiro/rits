@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 31" width="31" height="31">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-658 -4572L1262 -4572L1262 1145L-658 1145Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ef426f;stroke-linecap:round;stroke-width: 2 } 
+	</style>
+	<g id="Desktop-1" clip-path="url(#cp1)">
+		<g id="Grupo 13232">
+			<g id="arrow-forward-outline">
+				<path id="Caminho 3098" class="shp0" d="M15 3L27 15L15 27" />
+				<path id="Linha 1334" class="shp0" d="M25 15L1 15L25 15Z" />
+			</g>
+		</g>
+	</g>
+</svg>

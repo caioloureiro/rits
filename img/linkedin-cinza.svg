@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" width="21" height="21">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-1469 -5575L451 -5575L451 142L-1469 142Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #808080 } 
+	</style>
+	<g id="Desktop-1" clip-path="url(#cp1)">
+		<g id="Grupo 13113">
+			<g id="Grupo 13108">
+				<path id="logo-linkedin" class="shp0" d="M4.3 20L0 20L0 6.64L4.3 6.64L4.3 20ZM2.3 4.61L2.27 4.61C0.89 4.61 0 3.59 0 2.3C0 1 0.91 0 2.32 0C3.73 0 4.59 0.99 4.62 2.3C4.62 3.59 3.73 4.61 2.3 4.61ZM20 20L15.7 20L15.7 12.7C15.7 10.95 15.08 9.75 13.52 9.75C12.34 9.75 11.63 10.55 11.32 11.34C11.2 11.62 11.17 12 11.17 12.39L11.17 20L6.87 20L6.87 6.64L11.17 6.64L11.17 8.5C11.8 7.61 12.77 6.33 15.05 6.33C17.87 6.33 20 8.19 20 12.2L20 20Z" />
+			</g>
+		</g>
+	</g>
+</svg>
