@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 69 66" width="69" height="66">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-848 -5361L1072 -5361L1072 356L-848 356Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: rgba(0,169,224,1); stroke-width: 4 } 
+	</style>
+	<g id="Desktop-1" clip-path="url(#cp1)">
+		<g id="Grupo 13273">
+			<g id="Componente 5 – 1">
+				<g id="Grupo 13110">
+					<g id="Grupo 13272">
+						<path id="Caminho 3242" class="shp0" d="M13.78 46.34L12.39 50.15C11.62 52.26 12.71 54.59 14.82 55.35L35.15 62.75C37.26 63.52 39.58 62.43 40.35 60.33L41.74 56.52" />
+						<path id="Caminho 3243" class="shp0" d="M54.11 10.65L33.78 3.25C31.67 2.48 29.35 3.56 28.58 5.67L13.78 46.34L41.74 56.52L56.54 15.85C57.31 13.74 56.22 11.41 54.11 10.65Z" />
+						<path id="Linha 1338" class="shp0" d="M23.83 54.32L28.91 56.17L23.83 54.32Z" />
+						<path id="Caminho 3244" class="shp0" d="M17.49 20.34C15.52 20.94 13.85 22.42 13.09 24.5C12.33 26.58 12.66 28.79 13.78 30.51" />
+						<path id="Caminho 3245" class="shp0" d="M13.65 15.05C10.55 16.29 7.97 18.8 6.74 22.19C5.5 25.57 5.87 29.15 7.44 32.1" />
+						<path id="Caminho 3246" class="shp0" d="M55.61 34.22C56.73 35.94 57.06 38.15 56.3 40.23C55.55 42.31 53.88 43.79 51.91 44.39" />
+						<path id="Caminho 3247" class="shp0" d="M61.95 32.63C63.52 35.57 63.89 39.15 62.66 42.54C61.42 45.93 58.84 48.43 55.74 49.68" />
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
